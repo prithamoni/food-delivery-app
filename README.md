@@ -33,11 +33,4 @@ Online Food Ordering System in PHP
 8.  After setting up all these, go to the URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“ <br/>
 9.  All the login details are provided inside the project folder, check that out and enter them in order to use it. <br/>
 
-
-
-![06](https://user-images.githubusercontent.com/78216965/220665234-0156a808-4dc7-47b2-b48e-499ea64912d3.png)
-
-![07](https://user-images.githubusercontent.com/78216965/220665318-818c7bff-ad34-4d6f-95ce-36eb34565047.png)
-
-![08](https://user-images.githubusercontent.com/78216965/220665496-113b0bc2-009d-41a7-a70c-46e4fefc2682.png)
-"# food-delivery-app" 
+ 
